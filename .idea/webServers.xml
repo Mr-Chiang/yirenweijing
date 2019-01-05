@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49e11417-d795-4443-b488-8df328c73b1f" name="以人为镜" url="http://101.132.33.171">
+        <fileTransfer host="101.132.33.171" port="22" rootFolder="/www/wwwroot/yrwj.17xunle.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

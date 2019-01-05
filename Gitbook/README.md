@@ -15,4 +15,4 @@
 版权所有：丶随乐
 
 ## 项目环境
-### ThinkPHP+MySQL+Nginx+Swoole
+### ThinkPHP5.0.23+MySQL5.6+Nginx+Swoole
